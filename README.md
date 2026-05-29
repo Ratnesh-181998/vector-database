@@ -17,7 +17,10 @@
 ---
 
 # Vector Database cheatsheet
- 
+
+<img width="1768" height="1223" alt="image" src="https://github.com/user-attachments/assets/07fffb7b-c1c7-4b10-9057-97e6206d8e96" />
+<img width="1769" height="845" alt="image" src="https://github.com/user-attachments/assets/9252c851-aefe-412f-ba46-4eff17b99aba" />
+
 ---
 <img width="1058" height="1257" alt="image" src="https://github.com/user-attachments/assets/4353b55b-c5c4-4e56-8513-995fd2f60519" />
 
