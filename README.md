@@ -354,6 +354,14 @@ Final Response
 * AI Agent Memory Platforms
 * Production Case Studies
 
+---
+
+# [Vector Databases: from Embeddings to Applications](https://learn.deeplearning.ai/courses/vector-databases-embeddings-applications/lesson/nw7uo/search-for-similar-vectors)
+
+<img width="600" height="330" alt="image" src="https://github.com/user-attachments/assets/4afb6b68-68d4-442c-8f3e-2b14083eaa66" />
+<img width="1408" height="1027" alt="image" src="https://github.com/user-attachments/assets/26bfd6a6-760a-4b26-926a-cbac2c44f090" />
+<img width="1416" height="888" alt="image" src="https://github.com/user-attachments/assets/899562b3-87e9-4c73-bbce-60fd81dadb0b" />
+<img width="1885" height="861" alt="image" src="https://github.com/user-attachments/assets/56570d23-89f8-4802-87c7-2895e4c2b5e0" />
 
 ---
 
