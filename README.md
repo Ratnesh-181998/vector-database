@@ -723,6 +723,88 @@ They store embeddings efficiently and retrieve the most relevant information usi
 
 ---
 
+# 15 vector databases shaping modern AI systems:
+
+🟢 Pinecone
+→ Fully managed infrastructure
+→ Massive vector scale
+→ Enterprise-ready operations
+
+🔵 Weaviate
+→ Hybrid search capabilities
+→ Built-in AI integrations
+→ Developer-friendly APIs
+
+⚡ Milvus
+→ Billion-scale embeddings
+→ Distributed architecture
+→ High-performance workloads
+
+🎯 Qdrant
+→ Rich metadata filtering
+→ High-relevance retrieval
+→ Optimised semantic search
+
+🧠 Chroma
+→ Lightweight deployment
+→ Popular for RAG systems
+→ Fast experimentation
+
+🚀 FAISS
+→ Industry-standard similarity search
+→ Extremely high performance
+→ Foundation of many AI stacks
+
+⚙️ Redis Vector
+→ Real-time retrieval
+→ Ultra-low latency
+→ Combines caching + search
+
+🔍 Elasticsearch
+→ Hybrid keyword + vector search
+→ Strong analytics ecosystem
+→ Enterprise search leader
+
+📦 PGVector
+→ PostgreSQL-native vectors
+→ Simpler architecture
+→ Ideal for existing Postgres teams
+
+📈 Vespa
+→ Large-scale ranking engine
+→ Real-time serving
+→ Advanced retrieval pipelines
+
+🗄️ MongoDB
+→ JSON + vector support
+→ Unified developer experience
+→ Simplified application stack
+
+🏢 SingleStore
+→ OLTP + OLAP workloads
+→ High-speed analytics
+→ Operational AI use cases
+
+☁️ Astra DB
+→ Always-on scaling
+→ Cloud-native architecture
+→ Global deployment support
+
+📊 LanceDB
+→ Optimised for AI datasets
+→ Fast local queries
+→ Cost-efficient workloads
+
+🔓 OpenSearch
+→ Open-source flexibility
+→ Vector + search integration
+→ Enterprise observability alignment
+
+
+<img width="724" height="838" alt="image" src="https://github.com/user-attachments/assets/7df4cd09-c32c-46db-8970-9feb1cb5075a" />
+
+---
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
 
